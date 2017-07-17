@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+html,body,#map_canvas{
+	height: 100%;
+	margin:0;
+	padding:0;
+	font-family: 'Ubuntu', sans-serif;
+	position: relative;
+	z-index: 1;
+}
+header {
+	width: 100%;
+	height: 130px;
+	text-align: center;
+	background:  #001424;
+	color: rgba(255,255,255,0.6);
+	position: absolute;
+	z-index: 2;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1em;
+}
+#message{
+	font-size: 1em;
+	color: #EC4D00;
+}

@@ -1,0 +1,192 @@
+[
+	{
+		"name": "Aeropuerto Internacional de Oakland",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.7125689,-122.2219315]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.oaklandairport.com/"
+	},
+	{
+		"name": "Aeropuerto Internacional de San francisco",
+		"location":{
+			"type": "Point",
+			"coordinates": [37.6213129,-122.3811441]
+		},
+		"description": "Lorem ipsum dolor sit amet.",
+		"website": "http://www.flysfo.com/"
+	},
+	{
+		"name": "Aeropuerto Internacional de los Angeles",
+		"location":{
+			"type": "Point",
+			"coordinates": [33.9415889,-118.4129074]
+		},
+		"description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+		"website": "http://www.lawa.org/welcomelax.aspx"
+	},
+	{
+		"name": "Aeropuerto Internacional de Ontario",
+		"location":{
+			"type": "Point",
+			"coordinates": [34.0559781,-117.6002457]
+		},
+		"description": "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"website": "http://www.flyontario.com/"
+	},
+	{
+		"name": "Aeropuerto Internacional de San Diego",
+		"location":{
+			"type": "Point",
+			"coordinates": [35.9747416,-117.8493629]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.san.org/"
+	},
+	{
+		"name": "Aeropuerto Internacional de Denver",
+		"location":{
+			"type": "Point",
+			"coordinates": [39.8560963,-104.6759263]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "https://www.flydenver.com/"
+	},
+	{
+		"name": "Aeropuerto Internacional de San Antonio",
+		"location":{
+			"type": "Point",
+			"coordinates": [29.5311973,-98.4705371]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.sanantonio.gov/sat"
+	},
+	{
+		"name": "Aeropuerto Internacional de Austin-Bergstrom",
+		"location":{
+			"type": "Point",
+			"coordinates": [30.1974292,-97.6684945]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.austintexas.gov/airport/"
+    },
+    {
+		"name": "Aeropuerto Intercontinental George Bush",
+		"location":{
+			"type": "Point",
+			"coordinates": [29.4611318,-100.7585286]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.fly2houston.com/"
+    },
+    {
+		"name": "Aeropuerto Internacional de Fort Lauderdale-Hollywood ",
+		"location":{
+			"type": "Point",
+			"coordinates": [26.0742344,-80.1527909]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.broward.org/airport/Pages/Default.aspx"
+    },
+    {
+		"name": "Aeropuerto Internacional Southwest Florida",
+		"location":{
+			"type": "Point",
+			"coordinates": [26.5337051,-81.757497]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://flylcpa.com/"
+    },
+    {
+		"name": "Aeropuerto Internacional de Orlando",
+		"location":{
+			"type": "Point",
+			"coordinates": [28.4311577,-81.3102717]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "https://orlandoairports.net/"
+    },
+    {
+		"name": "Aeropuerto Internacional de Jacksonville",
+		"location":{
+			"type": "Point",
+			"coordinates": [30.4940713,-81.6901255]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.flyjax.com/Home.aspx"
+    },
+    {
+		"name": "Aeropuerto Internacional de Atlanta",
+		"location":{
+			"type": "Point",
+			"coordinates": [33.6407282,-84.4298888]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.atl.com/"
+    },
+    {
+		"name": "Aeropuerto Internacional de Charlotte-Douglas",
+		"location":{
+			"type": "Point",
+			"coordinates": [35.2144026,-80.9495033]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://charmeck.org/"
+    },
+    {
+		"name": "Aeropuerto Internacional de Raleigh-Durham",
+		"location":{
+			"type": "Point",
+			"coordinates": [35.880079,-78.790185]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "https://www.rdu.com/"
+    },
+    {
+		"name": "Aeropuerto Internacional John F. Kennedy",
+		"location":{
+			"type": "Point",
+			"coordinates": [40.6413111,-73.7803278]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.panynj.gov/airports/jfk.html"
+    },
+    {
+		"name": "Aeropuerto Internacional Niagara ",
+		"location":{
+			"type": "Point",
+			"coordinates": [43.108372,-78.9482299]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://buffaloairport.com/"
+		},
+	  {
+		"name": "Aeropuerto Internacional de La Guardia",
+		"location":{
+			"type": "Point",
+			"coordinates": [40.7732415,-73.8803114]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.panynj.gov/airports/laguardia.html"
+		}, 
+		{
+		"name": "Aeropuerto Internacional de Miami",
+		"location":{
+			"type": "Point",
+			"coordinates": [25.7953518,-80.2885554]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.miami-airport.com/"
+		}, 
+		{
+		"name": "Aéroport international de Seattle-Tacoma",
+		"location":{
+			"type": "Point",
+			"coordinates": [47.3950956,-122.3873528]
+		},
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+		"website": "http://www.portseattle.org/Sea-Tac/Pages/default.aspx"
+    }
+
+]
